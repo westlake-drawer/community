@@ -1,8 +1,8 @@
-# Westlake Noter 社区协作中心 / Community Hub
+# Westlake Drawer 社区协作中心 / Community Hub
 
-这里是 Westlake Noter 的公共协作空间，集中维护笔记仓库的协作规范，承载社区交流、提议、反馈与组织公告。课程笔记的查找入口统一放在 [notes-index](https://github.com/westlake-drawer/notes-index)，具体课程内容保留在各自的笔记仓库中。
+这里是 Westlake Drawer 的公共协作空间，集中维护笔记仓库的协作规范，承载社区交流、提议、反馈与组织公告。课程笔记的查找入口统一放在 [notes-index](https://github.com/westlake-drawer/notes-index)，具体课程内容保留在各自的笔记仓库中。
 
-This is Westlake Noter's public community hub for collaboration guidelines, discussions, proposals, feedback, and announcements. Find course notes in [notes-index](https://github.com/westlake-drawer/notes-index); course content stays in its own notes repository.
+This is Westlake Drawer's public community hub for collaboration guidelines, discussions, proposals, feedback, and announcements. Find course notes in [notes-index](https://github.com/westlake-drawer/notes-index); course content stays in its own notes repository.
 
 ## 协作入口 / Collaboration
 
@@ -85,6 +85,6 @@ This is Westlake Noter's public community hub for collaboration guidelines, disc
 
 ---
 
-**感谢你的参与！让我们一起把 Westlake Noter 建设得更好。**
+**感谢你的参与！让我们一起把 Westlake Drawer 建设得更好。**
 
-**Thank you for participating! Let's build a better Westlake Noter together.**
+**Thank you for participating! Let's build a better Westlake Drawer together.**

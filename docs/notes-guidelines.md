@@ -1,8 +1,8 @@
 # 笔记仓库协作规范 / Notes Repository Guidelines
 
-本页维护 Westlake Noter 课程笔记仓库的公共协作约定。[notes-index](https://github.com/westlake-drawer/notes-index) 仅作为笔记查找入口，不承载协作规范。
+本页维护 Westlake Drawer 课程笔记仓库的公共协作约定。[notes-index](https://github.com/westlake-drawer/notes-index) 仅作为笔记查找入口，不承载协作规范。
 
-This page maintains shared conventions for Westlake Noter course notes repositories. The notes index is solely a directory for finding notes, not a home for collaboration guidelines.
+This page maintains shared conventions for Westlake Drawer course notes repositories. The notes index is solely a directory for finding notes, not a home for collaboration guidelines.
 
 ## 仓库标签要求 / Required Repository Topics
 
